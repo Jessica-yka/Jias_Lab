@@ -22,8 +22,9 @@
   # plugin: orcid.py
   # file: orcid.yaml
 
+  
+# # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-# ---- Temporarily commented out entries ----
 # - id: doi:10.1101/2025.06.19.660613
 #   title: Scalable data harmonization for single-cell image-based profiling with CytoTable
 #   authors:
