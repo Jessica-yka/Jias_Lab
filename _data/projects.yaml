@@ -1,47 +1,19 @@
-- title: Cool Dataset
+- title: Generative Search Engines
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/GEO.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: We use LLM agents to optimize company websites so they are better understood, cited, and recommended by large language models in AI‑driven web search. By aligning content structure, semantics, and signals with how LLMs retrieve and generate answers, GEO helps products stand out in generative search results and AI assistants.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
+- title: Supply Chain Management
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/SupplyChain2.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: We leverage data-driven methods and AI technologies to study real-world supply chain dynamics and global trade patterns under uncertainty. The project examines how disruptions, policy changes, and market shocks reshape production, logistics, and cross-border flows, with the goal of improving resilience and decision-making in complex supply networks.
   repo: greenelab/lab-website-template
   tags:
     - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
