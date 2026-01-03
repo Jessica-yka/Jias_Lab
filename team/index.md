@@ -13,7 +13,7 @@ placeholder at team/index.md line 10
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'prof'" %}
-{% include list.html data="members" component="portrait" filter="role == 'student'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd_student'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
