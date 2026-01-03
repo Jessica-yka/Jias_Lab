@@ -1,6 +1,6 @@
 ---
 name: Prof. Jia Liu
-image: images/photo.jpg
+image: images/Jia_Liu.jpg
 role: prof
 affiliation: HKUST
 links:
