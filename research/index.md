@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab conducts interdisciplinary research at the intersection of marketing science and artificial intelligence, with a focus on consumer behavior modeling, big data analytics, and intelligent decision systems. We develop data‑driven methodologies to advance theory while addressing real‑world challenges in revenue management, recommendation systems, and global branding. Our work aims to generate both rigorous academic insights and actionable implications for businesses in the digital and globalized economy.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="The daily me versus the daily others: how do recommendation algorithms change user interests? Evidence from a knowledge-sharing platform" style="rich" %}
 
 {% include section.html %}
 
