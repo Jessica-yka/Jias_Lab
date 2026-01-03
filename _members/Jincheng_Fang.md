@@ -2,7 +2,7 @@
 name: Jincheng Fang
 image: images/photo.jpg
 # description: 
-role: phd_student
+role: phd
 group: student
 links:
   # email: None

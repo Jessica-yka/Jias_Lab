@@ -17,10 +17,16 @@ Our lab conducts interdisciplinary research at the intersection of marketing sci
 
 {% include section.html %}
 
-## All
+<!-- ## Papers
+
+{% include list.html data="papers" component="citation" style="rich" %}
+
+{% include section.html %} -->
+
+## All Publications
 
 {% include search-box.html %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="papers" component="citation" style="rich" %}

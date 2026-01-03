@@ -1,7 +1,7 @@
 ---
 name: Shijie Han
 image: images/photo.jpg
-role: phd_student
+role: phd
 group: student
 links:
   github: None
